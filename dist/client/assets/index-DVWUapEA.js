@@ -1,0 +1,1 @@
+import{j as n,S as s,U as e,a as i,b as r}from"./main-CvVyDA4Q.js";function t(){return n.jsxs("div",{children:[n.jsx("h1",{children:"Index Route"}),n.jsxs(s,{children:[n.jsx("p",{children:"You are signed in"}),n.jsx(e,{})]}),n.jsxs(i,{children:[n.jsx("p",{children:"You are signed out"}),n.jsx(r,{})]})]})}export{t as component};
